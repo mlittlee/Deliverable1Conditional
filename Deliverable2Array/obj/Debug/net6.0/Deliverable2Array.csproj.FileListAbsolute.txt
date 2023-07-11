@@ -1,0 +1,15 @@
+C:\Users\m\source\repos\Deliverable2Array\obj\Debug\net6.0\Deliverable2Array.csproj.AssemblyReference.cache
+C:\Users\m\source\repos\Deliverable2Array\obj\Debug\net6.0\Deliverable2Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m\source\repos\Deliverable2Array\obj\Debug\net6.0\Deliverable2Array.AssemblyInfoInputs.cache
+C:\Users\m\source\repos\Deliverable2Array\obj\Debug\net6.0\Deliverable2Array.AssemblyInfo.cs
+C:\Users\m\source\repos\Deliverable2Array\obj\Debug\net6.0\Deliverable2Array.csproj.CoreCompileInputs.cache
+C:\Users\m\source\repos\Deliverable2Array\bin\Debug\net6.0\Deliverable2Array.exe
+C:\Users\m\source\repos\Deliverable2Array\bin\Debug\net6.0\Deliverable2Array.deps.json
+C:\Users\m\source\repos\Deliverable2Array\bin\Debug\net6.0\Deliverable2Array.runtimeconfig.json
+C:\Users\m\source\repos\Deliverable2Array\bin\Debug\net6.0\Deliverable2Array.dll
+C:\Users\m\source\repos\Deliverable2Array\bin\Debug\net6.0\Deliverable2Array.pdb
+C:\Users\m\source\repos\Deliverable2Array\obj\Debug\net6.0\Deliverable2Array.dll
+C:\Users\m\source\repos\Deliverable2Array\obj\Debug\net6.0\refint\Deliverable2Array.dll
+C:\Users\m\source\repos\Deliverable2Array\obj\Debug\net6.0\Deliverable2Array.pdb
+C:\Users\m\source\repos\Deliverable2Array\obj\Debug\net6.0\Deliverable2Array.genruntimeconfig.cache
+C:\Users\m\source\repos\Deliverable2Array\obj\Debug\net6.0\ref\Deliverable2Array.dll

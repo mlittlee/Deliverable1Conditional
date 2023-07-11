@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Deliverable2Array/1.0.0": {
+        "runtime": {
+          "Deliverable2Array.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Deliverable2Array/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
